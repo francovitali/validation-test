@@ -1,0 +1,23 @@
+.DS_Store
+
+*.class
+
+# Package Files #
+*.war
+*.ear
+*.jar
+
+target/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+.m2
+
+# gradle
+.gradle/
+
+*.log
